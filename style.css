@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(rgb(238, 255, 0),rgb(200, 255, 0),rgb(0, 255, 13),rgb(0, 255, 213),rgb(0, 217, 255),rgb(0, 68, 255),rgb(4, 24, 202));
+}
+ul{
+    list-style: none;
+    top: 0%;
+    position: fixed;
+    z-index: 150;
+    cursor: pointer;
+}
+li{
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+
+    float: left;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+}
